@@ -1,0 +1,11 @@
+.container__chart {
+    aspect-ratio: 1;
+    margin-bottom: auto;
+}
+
+.container__chartCategoryInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
